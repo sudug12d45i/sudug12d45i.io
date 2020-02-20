@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+###个人信息
 
-You can use the [editor on GitHub](https://github.com/sudug12d45i/sudug12d45i.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+####姓名：姚大松
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+####学校：浙江万里学院
 
-### Markdown
+####专业：通信工程
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sudug12d45i/sudug12d45i.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###简介
+我是一个对理想有着执着追求，不甘平凡的人，
+为人诚实,吃苦耐劳，热情稳重，热爱销售，
+自信但不自负勤奋而负有责任感，
+有亲和力及较强的沟通表达能力，并有良好的团队合作精神
+是一个值得信赖的人。
